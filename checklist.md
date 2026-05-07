@@ -189,16 +189,3 @@ Do NOT approve the service if:
 - [ ] Token abuse can cause uncontrolled cost spikes
 
 ---
-
-# Recommended AWS Security Services
-
-- Amazon Bedrock
-- AWS IAM
-- AWS KMS
-- AWS CloudTrail
-- Amazon GuardDuty
-- AWS WAF
-- AWS Secrets Manager
-- Amazon Macie
-
----
