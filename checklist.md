@@ -1,6 +1,6 @@
 # Amazon Bedrock Security Assessment Checklist
 
-A practical security checklist for evaluating applications and chatbots using Amazon Bedrock before production approval.
+A practical security checklist for evaluating applications using Amazon Bedrock before production approval.
 
 ---
 
